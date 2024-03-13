@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikn25" alt="karthikn25" /></a> </p>
 
-- 🔭 I’m currently working on **AgeCalculator**
+- 🔭 I’m currently working on **NITI Internship**
 
 - 🌱 I’m currently learning **ReactNative**
 
