@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NITI Internship**
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **UI/UX Design**
 
 - 👨‍💻 All of my projects are available at [https://kknportfolio.netlify.app/](https://kknportfolio.netlify.app/)
 
