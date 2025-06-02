@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
-<h3 align="center">Crafting seamless web & mobile experiences using code and design — from Figma to full-stack.</h3>
+<h3 align="center">Building Scalable Web & Mobile Apps with React, React Native (Expo), Node.js, and Cloud — From Figma to Full-Stack Deployment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikn25&label=Profile%20views&color=0e75b6&style=flat" alt="karthikn25" /> </p>
 
