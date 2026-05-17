@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **photoshop and illustrator**
 
-- 👨‍💻 All of my projects are available at [https://kknportfolio24.netlify.app/](https://kknportfolio24.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kknportfolio24.netlify.app/](https://kknportfolio26.netlify.app/)
 
 - 💬 Ask me about **React and React native**
 
